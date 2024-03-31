@@ -1,8 +1,8 @@
-### Hello Worlds 👋
+### GM 👋
 
 - 🔭 I’m currently freelance working on PHP/Symfony + NextJS13/ReactJs18
-- 🌱 I’m currently learning Solidity/ethers.js + NextJS13/ReactJs18 @ #Alyra
-- 👯 I’m looking to collaborate with web2 or web3 companies
+- 🌱 I’m currently developper in Solidity (ethereum) + ethers.js and graduate from @ #Alyra
+- 👯 I’m looking to collaborate with web2 / web3 companies
 - 📫 How to reach me: Contact me on LinkedIn
 
 
